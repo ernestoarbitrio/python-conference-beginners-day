@@ -24,7 +24,7 @@ See [tutorials-and-challenges.md](tutorials/tutorials-and-challenges.md)
 
 ## Afternoon lecture: The Python Ecosystem
 
-See [python-ecosystem.md](python-ecosystem.md)
+See [http://mirnazim.org/writings/python-ecosystem-introduction/d](http://mirnazim.org/writings/python-ecosystem-introduction/)
 
 ##  End of day lecture:  How to get the best out of the conference
 
