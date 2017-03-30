@@ -3,7 +3,7 @@
 Some docs to support the organising of a "beginners' day" at Python
 conferences. Inherithd from from EuroPython 2015, updated for PyCon Otto.
 
-https://www.pycon.it/en/beginners-day-workshop-pycon-otto/
+**https://www.pycon.it/en/beginners-day-workshop-pycon-otto/**
 
 http://blog.europython.eu/post/122336430342/europython-2015-beginners-day
 
