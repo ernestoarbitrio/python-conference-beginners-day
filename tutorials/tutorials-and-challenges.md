@@ -33,8 +33,6 @@ Nothing beats [Harry Percival's book](https://www.obeythetestinggoat.com) for a 
 
 ## For sciencey people:
 
-* Conrad's [4 pydata uk beginners' notebooks](http://conrad.pythonanywhere.com/pydata)
-
 * Vincent's [intro to numpy and pandas notebook](https://github.com/koaning/python_data_intro/tree/master)
 
 * [Try the Jupyter notebook in your browser](http://jupyter.readthedocs.io/en/latest/tryjupyter.html).
@@ -52,7 +50,7 @@ Nothing beats [Harry Percival's book](https://www.obeythetestinggoat.com) for a 
 * Scikit-learn tutorial by Gael Varoquaux at EP 2014: https://github.com/GaelVaroquaux/sklearn_europython_2014
 * simplified text processing with textBlob: https://textblob.readthedocs.org/en/dev/
 * official Seaborn tutorial: http://web.stanford.edu/~mwaskom/software/seaborn/tutorial.html#tutorial
-* official Bokeh tutorial: http://bokeh.pydata.org/en/latest/docs/tutorials.html
+* official Bokeh tutorial: http://bokeh.pydata.org/en/latest/docs/user_guide/tutorials.html
 
 
 
