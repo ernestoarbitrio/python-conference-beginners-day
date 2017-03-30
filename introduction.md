@@ -11,7 +11,6 @@
     - Dive into Python (http://www.diveinto.org/python3/) aka DiP
     - challenges
 
-https://github.com/hjwp/python-conference-beginners-day/
 
 * Split out into tables
     - beginners (incl DiP)
