@@ -1,7 +1,9 @@
 # Python conference Beginners' Day
 
 Some docs to support the organising of a "beginners' day" at Python
-conferences.  Prepared for EuroPython 2015. Updated for Pycon 2016.
+conferences. Inherithd from from EuroPython 2015, updated for PyCon Otto.
+
+https://www.pycon.it/en/beginners-day-workshop-pycon-otto/
 
 http://blog.europython.eu/post/122336430342/europython-2015-beginners-day
 
