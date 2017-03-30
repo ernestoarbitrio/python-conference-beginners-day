@@ -8,7 +8,7 @@
 
 * Run-through of each tutorial option
     - beginners + DG
-    - Dive into Python (http://www.diveinto.org/python3/) aka DiP
+    - Dive into Python (http://www.diveintopython3.net/) aka DiP
     - challenges
 
 
