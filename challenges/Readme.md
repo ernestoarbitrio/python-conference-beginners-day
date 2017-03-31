@@ -1,19 +1,23 @@
-# Python Challenges
+# Python basic challenges
 
-These challenges are aimed at people who've already learned the basics of
-Python.  They're meant to encourage you to use some of the more interesting
-features of Python, and help you to write more "Pythonic" code...
+These challenges are aimed at people who've never learned Python.  
+They're meant to tempt you to use the basic features of Python (ver 3.X), 
+and encourage you to write your first "Pythonic" code...
 
 
-# Python challenges in this repo
+# Python basic challenges in this repo
 
-[magic methods and duck typing](magic_methods.py)  - learn how to make your classes Pythonic using magic methods like `__len__` and more
+[The classic Hello World!](hello_word.py) - The print command, the first basic concept you have to know about Python.
 
-[decorators](decorators.py) - decorators, a pretty way of transforming functions using other functions. functional programming!  functions.
+[Python's syntax for math operations](math_operation.py)  - Python's syntax for math opera­tions is almost the same as standard mathematical notation. For example, the symbols +, - and / denote addition, subtraction and division, as you would expect. The symbol for multiplication is *.
 
-[context managers](context_managers.py) - aka the `with` statement.  What's it for, and how does it help to make your code look nicer?
+[Variables](variables.py) - One of the most powerful features of a programming language is the ability to manip­ ulate variables. A variable is a name that refers to a value.
 
-[generators](generators.py) - more efficient iterators with python and the `yield` statement.
+[Practice with Python interpreter](python_interpreter.md) - One of the benefits of working with an interpreted language is that you can test bits of code in interactive mode before you put them in a script.
+
+[Boolean Expressions](boolean_expressions.py) - A Boolean expression is an expression that is either true or false.
+
+[loops and range function](forloop_range.py) - We often want computers to repeat some process several times. Programming languages provide structures that enable you to repeat blocks of instructions over and over again. This type of repetition is known as iteration.
 
 [The Game of Life](life.md) - a programming classic.  Try it out using OO and functional paradigms in Python.
 
@@ -40,4 +44,3 @@ and lots more...
 * Python Epiphanies! http://swilliams.ca/Python-Epiphanies.pdf 
 * an excellent intermediate book:  Fluent Python http://shop.oreilly.com/product/0636920032519.do  (use code AUTHD)
 * head on back to the tutorials page for some [science resources](../tutorials-and-challenges.md#for-sciencey-people)
-
