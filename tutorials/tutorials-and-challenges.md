@@ -37,7 +37,7 @@ Nothing beats [Harry Percival's book](https://www.obeythetestinggoat.com) for a 
 
 * [Try the Jupyter notebook in your browser](http://jupyter.readthedocs.io/en/latest/tryjupyter.html).
 
-* Check out the [Gallery of interesting notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* Check out the [Gallery of interesting notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
   to see the many great things Python can do and the
   [Jupyter Notebook Viewer](http://nbviewer.jupyter.org/) for a way to share notebooks
 
