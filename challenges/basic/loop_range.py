@@ -1,15 +1,15 @@
 """
 EXERCISES:
 
-- Given a message and the number of times  they want that message displayed,
-write a program that print the message that number of times. Write it with forloop
-and with a whileloop.
+- Given a message and the number of times they want that message displayed,
+write a program that print the message (with the iteration number by side) that number of times. 
+Write it with forloop and with a whileloop.
+Hint: read the enumerate built-in function in python3 docs.
 
 - Write a program that will calculate the average (mean) of a set of numbers. 
 This time, the user is to be asked how many numbers are to be averaged, 
 they must then enter this number of numbers. Your program will calculate 
 and display the average of those numbers.
-
 
 
 There are two types of loop in Python:
