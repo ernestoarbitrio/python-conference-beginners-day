@@ -17,9 +17,16 @@ and encourage you to write your first "Pythonic" code...
 
 [Boolean Expressions](boolean_expressions.py) - A Boolean expression is an expression that is either true or false.
 
+[Lists](lists.py) - Like a string, a list is a sequence of values. In a string, the values are characters; in a list, they can be any type.
+
+[Strings](string_operations.py) - Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes. Python treats single quotes the same as double quotes.
+
 [loops and range function](forloop_range.py) - We often want computers to repeat some process several times. Programming languages provide structures that enable you to repeat blocks of instructions over and over again. This type of repetition is known as iteration.
 
-[The Game of Life](life.md) - a programming classic.  Try it out using OO and functional paradigms in Python.
+[Dictionaries](dictionaries.py) - You can think of a dictionary as a mapping between a set of indices (which are called keys) and a set
+of values.
+
+[Functions](functions.py) - In the context of programming, a function is a named sequence of statements that performs a computation.
 
 
 

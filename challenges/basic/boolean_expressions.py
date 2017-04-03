@@ -1,7 +1,13 @@
 """
-EXERCISE:
-Given vars a and b float, print "a > b" if a greater than b 
-else print "a <= b" if b is greater than or equal to a.
+EXERCISES:
+========================================================================================================================
+Es.1
+Given vars a and b float, print "a > b" if a greater than b else print "a <= b" if b is greater than or equal to a.
+
+Es.2
+Given two strings 'banana' 'watermelon' check which word has the major number of characters.
+Hint: len(str) is a python function that return the string length
+========================================================================================================================
 
 A Boolean expression is an expression that is either true or false. The following 
 examples use the operator ==, which compares two operands and produces True if 
@@ -33,8 +39,7 @@ Try: python -m doctest -v boolean_expressions.py
 
 See: https://docs.python.org/3/library/doctest.html
 
-Credit to Allen Downey and his excellent book Think Python, from which
-I stole this descriptions.
+Credit to Allen Downey and his excellent book Think Python, from which I stole this descriptions.
 """
 
 # Write your code here or in your interpreter console. Enjoy!!!
