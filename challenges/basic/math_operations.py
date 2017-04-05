@@ -5,7 +5,7 @@ Es.1
 If you run a 10 kilometer race in 43 minutes 30 seconds, what is your average time per mile?
 What is your average speed in miles per hour? 
 Hints: 
-        - there are 1.61 kilometers in a mile);
+        - there are 1.61 kilometers in a mile;
         - convert time in seconds ... and then reconvert to the unit you need;
         - speed = distance/time
 

@@ -52,6 +52,7 @@ of multiple assignment.
 >>> x2,y2 = 6,8 # point two
 >>> m,b = float(y1-y2)/(x1-x2), y1-float(y1-y2)/(x1-x2)*x1
 >>> print("y=",m,"*x+",b)
+y= 1.25 *x+ 0.5
 
 Reference: here a good reference to better understand types in python 3
 https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3

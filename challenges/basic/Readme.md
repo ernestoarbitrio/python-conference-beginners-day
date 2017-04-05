@@ -23,7 +23,7 @@ and encourage you to write your first "Pythonic" code...
 
 - [loops and range function](forloop_range.py) - We often want computers to repeat some process several times. Programming languages provide structures that enable you to repeat blocks of instructions over and over again. This type of repetition is known as iteration.
 
-- [Dictionaries](dictionaries.py) - You can think of a dictionary as a mapping between a set of indices (which are called keys) and a set of values.
+- [Dictionaries](dictionaries.py) - You can think of a dictionary as a mapping between a set of indices (which are called keys) and a set  of values.
 
 - [Functions](functions.py) - In the context of programming, a function is a named sequence of statements that performs a computation.
 

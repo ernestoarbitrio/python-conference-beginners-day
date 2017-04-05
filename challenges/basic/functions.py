@@ -5,7 +5,7 @@ Es.1
 - Write a Python function to find the Max of three numbers.
 
 Es.2
-- Write a Python function to sum all the numbers in a list.
+- Write a Python function to sum all the numbers in a given list.
 Sample List : (8, 2, 3, 0, 7)
 Expected Output : 20
 
@@ -17,6 +17,12 @@ No. of Upper case characters : 3
 No. of Lower case Characters : 12
 
 Es.3
+- Write a function named right_justify that takes a string named s as a parameter and prints the string with enough l
+eading spaces so that the last letter of the string is in column 70 of the display.
+    [] right_justify('allen')
+    []                                                                 allen
+
+Es.4
 - Write a Python function to check whether a number is perfect or not.
 According to Wikipedia : In number theory, a perfect number is a positive integer that is equal to the sum of its proper
 positive divisors, that is, the sum of its positive divisors excluding the number itself (also known as its aliquot 
@@ -25,12 +31,6 @@ sum). Equivalently, a perfect number is a number that is half the sum of all of 
 Example : The first perfect number is 6, because 1, 2, and 3 are its proper positive divisors, and 1 + 2 + 3 = 6. 
 Equivalently, the number 6 is equal to half the sum of all its positive divisors: ( 1 + 2 + 3 + 6 ) / 2 = 6. 
 The next perfect number is 28 = 1 + 2 + 4 + 7 + 14. This is followed by the perfect numbers 496 and 8128.
-
-Es.4
-- Write a function named right_justify that takes a string named s as a parameter and prints the string with enough l
-eading spaces so that the last letter of the string is in column 70 of the display.
-    [] right_justify('allen')
-    []                                                                 allen
 
 ========================================================================================================================
 
