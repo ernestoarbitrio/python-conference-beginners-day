@@ -31,17 +31,24 @@
     - same bits re tab-completion etc
 
 
-## Installing Python (and pip)
+# How to set up your environment
 
+The quickest and simplest way to setup the environment is to use [conda](https://store.continuum.io) environment manager. 
+Download Anaconda 4.2.0 (based on python 3.5) here:
++ Mac OSX 64Bit (https://repo.continuum.io/archive/Anaconda3-4.2.0-MacOSX-x86_64.sh)
++ Linux 64Bit (https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh)
 
-* On Windows, just download the Python 3 installer from python.org.  Make sure you tick the option that says **add python.exe to Path**
-** If you can't install software on your laptop (maybe it's a work laptop), you can try http://winpython.github.io/
+If you need anaconda for different archs please refers to: https://repo.continuum.io/archive/index.html
+<br>
+To install anaconda: 
+```bash
+bash Anaconda3-4.2.0-MacOSX-x86_64.sh [mac users]
+bash Anaconda2-4.2.0-Linux-x86_64.sh [linux users]
+```
 
-* On Mac, again, download the Python 3 installer from python.org
-
-* On Linux, use your package manager.  On Ubuntu, if you don't have pip, use
-
-    apt-get install python3-pip
+<br>
+#### For Windows Users
+Anaconda for Windows installation guide here: (https://docs.continuum.io/anaconda/install) 
 
 
 ## Install Git-Bash (for Windows)
