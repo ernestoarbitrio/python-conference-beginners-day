@@ -29,25 +29,8 @@ of values.
 [Functions](functions.py) - In the context of programming, a function is a named sequence of statements that performs a computation.
 
 
+# Docs and Reference
+- [Pyhon3.5 Official Doc](https://docs.python.org/3.5/)
+- [A byte of Python](https://python.swaroopch.com/) - A free book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience.
+- [Python interpreter overview](https://opentechschool.github.io/python-beginners/en/getting_started.html) - Few text and code to understend how to interact with python console
 
-# Beyond Python - learning to use third party libraries
-
-Check out the great tutorials at [newcoder.io](http://newcoder.io/) and learn how to use:
-
-* Matplotlib to plot charts
-* GEOJson to parse geographical data
-* requests to get data off the internet
-* scrapy for web scraping
-* postgres as a database
-* Tk for graphics and GUI stuff
-
-and lots more...
-
-
-# Other resources
-
-* If you fancy something mathematical, try out Project Euler or the Matasano Crypto Challenges
-* If you fancy learning TDD and good web development practices, check out www.obeythetestinggoat.com
-* Python Epiphanies! http://swilliams.ca/Python-Epiphanies.pdf 
-* an excellent intermediate book:  Fluent Python http://shop.oreilly.com/product/0636920032519.do  (use code AUTHD)
-* head on back to the tutorials page for some [science resources](../tutorials-and-challenges.md#for-sciencey-people)
