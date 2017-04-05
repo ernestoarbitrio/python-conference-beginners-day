@@ -45,10 +45,9 @@ To install anaconda:
 bash Anaconda3-4.2.0-MacOSX-x86_64.sh [mac users]
 bash Anaconda2-4.2.0-Linux-x86_64.sh [linux users]
 ```
+**For Windows Users**
 
-<br>
-#### For Windows Users
-Anaconda for Windows installation guide here: (https://docs.continuum.io/anaconda/install) 
+Anaconda for Windows installation guide here: (https://docs.continuum.io/anaconda/install-windows.html) 
 
 
 ## Install Git-Bash (for Windows)
