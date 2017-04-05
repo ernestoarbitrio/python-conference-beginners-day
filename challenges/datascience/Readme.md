@@ -15,22 +15,22 @@ If you don't know what a Jupyter notebook is, or how to use it, please take a lo
 introductory tour: [IPython Notebook Beginner Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html).
 
 For additional details and materials on Jupyter and IPython, I suggest this 
-[Jupyter Notebook: the Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook):
+[Jupyter Notebook the Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook):
 
-- [What is](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#WhatIs)
+- [What is a Jupyter Notebook](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#WhatIs)
 - [Practical Introduction](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook##UseJupyter)
 - [Notebook Examples](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook##NotebookExamples)
 
 
 # Python Data Science challenges in this repo
 
-[Numpy Arrays](numpy_arrays.ipynb)  - learn how to create and use numpy arrays: the most fundamental structure of data processing
+[Numpy Arrays](numpy_arrays.ipynb)  - learn how to create and use numpy `ndarrays`: the most fundamental structure of data processing
 
-[Pandas DataFrame](pandas_dataframe.ipynb) - learn how to load and manipulate data using pandas
+[Pandas DataFrame](pandas_dataframe.ipynb) - learn how to load and manipulate data using pandas `DataFrame` and `Series`
 
-[Basic Data Viz](data_visualisation.ipynb) - basic introduction to data visualization using matplotlib and bokeh
+[Basic Data Viz](data_visualisation.ipynb) - basic introduction to data visualization using `matplotlib` and `bokeh`
 
-[Scipy for Data Mining](scipy_datamining.ipynb) - some examples of scipy functions for data mining
+[Scipy for Data Mining](scipy_datamining.ipynb) - some examples of `scipy` functions for statistics and data mining
 
 [Introduction to Machine Learning with Scikit-learn](scikit-learn_machine-learning.ipynb) - learn the basics of machine learning using scikit-learn
 
