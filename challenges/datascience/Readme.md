@@ -26,11 +26,11 @@ For additional details and materials on Jupyter and IPython, I suggest this
 
 [Numpy Arrays](numpy_arrays.ipynb)  - learn how to create and use numpy `ndarrays`: the most fundamental structure of data processing
 
+[Scipy Sparse](scipy_sparse.ipynb) - dive into the `scipy.sparse` module for sparse matrix implementations.
+
 [Pandas DataFrame](pandas_dataframe.ipynb) - learn how to load and manipulate data using pandas `DataFrame` and `Series`
 
 [Basic Data Viz](data_visualisation.ipynb) - basic introduction to data visualization using `matplotlib` and `bokeh`
-
-[Scipy for Data Mining](scipy_datamining.ipynb) - some examples of `scipy` functions for statistics and data mining
 
 [Introduction to Machine Learning with Scikit-learn](scikit-learn_machine-learning.ipynb) - learn the basics of machine learning using scikit-learn
 
