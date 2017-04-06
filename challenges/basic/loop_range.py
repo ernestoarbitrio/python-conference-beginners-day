@@ -7,9 +7,9 @@ Es.1
 Hint: read the enumerate built-in function in python3 docs.
 
 Es.2
-- Write a program that will calculate the average (mean) of a set of numbers. This time, the user is to be asked how 
-many numbers are to be averaged, they must then enter this number of numbers. Your program will calculate and display 
-the average of those numbers.
+- Write a program that will calculate the sum of a range of n numbers.
+For example for n=5, result must be 15
+Hint: read the range built-in function in python3 docs.
 ========================================================================================================================
 
 There are two types of loop in Python:

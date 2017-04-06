@@ -3,7 +3,7 @@ EXERCISES:
 ========================================================================================================================
 Es.1
 - The word 'in' is a boolean operator that takes two strings and returns True if the first appears as a substring in 
-the second: use this operator to check if 'a' or 'seed' is present in 'banana'.
+the second: use this operator to check if 'an' or 'seed' is present in 'banana'.
 
 Es.2
 - There is a string method called count. Read the documentation of this method and write an invocation that counts the 
@@ -112,7 +112,7 @@ Tip:
 If you have lines in the docstring (this string) that look like interactive Python sessions, you can use the doctest 
 module to run and test this code.
 
-Try: python -m doctest -v string_operations.py
+Try: python -m doctest -v strings_operations.py
 
 See: https://docs.python.org/3/library/doctest.html
 

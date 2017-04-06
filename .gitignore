@@ -3,3 +3,6 @@ __pycache__
 *~
 *.~lock*
 .DS_Store
+.idea
+solutions
+log
