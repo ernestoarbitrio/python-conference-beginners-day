@@ -7,7 +7,7 @@ and encourage you to write your first "Pythonic" code...
 
 # Python basic challenges in this repo
 
-- [The classic Hello World!](hello_word.py) - The print command, the first basic concept you have to know about Python.
+- [The classic Hello World!](/hello_world.py) - The print command, the first basic concept you have to know about Python.
 
 - [Python's syntax for math operations](math_operation.py)  - Python's syntax for math opera­tions is almost the same as standard mathematical notation. For example, the symbols +, - and / denote addition, subtraction and division, as you would expect. The symbol for multiplication is *.
 
