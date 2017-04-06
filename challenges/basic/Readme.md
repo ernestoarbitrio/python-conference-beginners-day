@@ -9,7 +9,7 @@ and encourage you to write your first "Pythonic" code...
 
 - [The classic Hello World!](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/hello_world.py) - The print command, the first basic concept you have to know about Python.
 
-- [Python's syntax for math operations](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/math_operation.py)  - Python's syntax for math opera­tions is almost the same as standard mathematical notation. For example, the symbols +, - and / denote addition, subtraction and division, as you would expect. The symbol for multiplication is *.
+- [Python's syntax for math operations](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/math_operations.py)  - Python's syntax for math opera­tions is almost the same as standard mathematical notation. For example, the symbols +, - and / denote addition, subtraction and division, as you would expect. The symbol for multiplication is *.
 
 - [Variables](variables.py) - One of the most powerful features of a programming language is the ability to manip­ ulate variables. A variable is a name that refers to a value.
 
