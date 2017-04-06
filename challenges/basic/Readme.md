@@ -17,11 +17,11 @@ and encourage you to write your first "Pythonic" code...
 
 - [Boolean Expressions](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/boolean_expressions.py) - A Boolean expression is an expression that is either true or false.
 
-- [Lists](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/lists.py) - Like a string, a list is a sequence of values. In a string, the values are characters; in a list, they can be any type.
+- [loops and range function](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/loop_range.py) - We often want computers to repeat some process several times. Programming languages provide structures that enable you to repeat blocks of instructions over and over again. This type of repetition is known as iteration.
 
 - [Strings](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/string_operations.py) - Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes. Python treats single quotes the same as double quotes.
 
-- [loops and range function](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/forloop_range.py) - We often want computers to repeat some process several times. Programming languages provide structures that enable you to repeat blocks of instructions over and over again. This type of repetition is known as iteration.
+- [Lists](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/lists.py) - Like a string, a list is a sequence of values. In a string, the values are characters; in a list, they can be any type.
 
 - [Dictionaries](https://github.com/ernestoarbitrio/python-conference-beginners-day/blob/master/challenges/basic/dictionaries.py) - You can think of a dictionary as a mapping between a set of indices (which are called keys) and a set  of values.
 
