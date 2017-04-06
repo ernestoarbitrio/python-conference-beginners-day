@@ -2,7 +2,7 @@
 EXERCISES:
 ========================================================================================================================
 Es.1
-- Assign 3 variables 9 (a, b, c) with float numbers. Figure out the sum, the product, the 
+- Assign 3 variables (a, b, c) with float numbers. Figure out the sum, the product, the 
 difference and the quotient of the variables putting each operation in a new var.
 
 Es.2
