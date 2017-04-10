@@ -27,7 +27,7 @@ There are several ways to create a new list; the simplest is to enclose the elem
     [10, 20, 30, 40]
     ['crunchy frog', 'ram bladder', 'lark vomit']
 
-The first example is a list of four integers. The second is a list of three strings. The elements of a list don’t have 
+The first example is a list of four integers. The second is a list of three strings. The elements of a list don't have 
 to be the same type. The following list contains a string, a float, an integer, and (lo!) another list:
 ['spam', 2.0, 5, [10, 20]]
 
